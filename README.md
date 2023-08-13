@@ -1,7 +1,4 @@
-# Your First Full Stack Application with Angular and Spring Boot
-
-[![Image](https://www.springboottutorial.com/images/Course-Go-Full-Stack-With-SpringBoot-And-Angular.png "Go Full Stack with Spring Boot and Angular")](https://www.udemy.com/course/full-stack-application-development-with-spring-boot-and-angular/)
-
+# Your First Full Stack Application with Angular and Spring Boots
 
 ## Take your first steps towards becoming a Full Stack Developer with Angular and Spring Boot
 
